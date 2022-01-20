@@ -24,6 +24,7 @@ public class BaseClass {
 	driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 	
 	System.out.println("hello");
+	System.out.println("vikash");
 	
 	}
 	
